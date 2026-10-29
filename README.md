@@ -34,3 +34,6 @@ Priorização: filtragem dos produtos que necessitam de compra e ordenação con
 ### Resultados
 
 A análise permitiu identificar produtos que atingiram ou ficaram abaixo do estoque mínimo, calcular suas necessidades de reposição e organizar os dados para facilitar a priorização de compras.
+
+<img width="1247" height="369" alt="image" src="https://github.com/user-attachments/assets/410e808e-c854-4867-a4f9-4a2c8f21345f" />
+
